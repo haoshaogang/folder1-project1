@@ -6,4 +6,4 @@ Adding another line to this file.
 
 Yet another line.
 
-A different line from master.
+More lines. A different line from master.
